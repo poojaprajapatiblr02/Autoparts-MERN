@@ -16,7 +16,7 @@ const About = () => {
           <p className="text-justify mt-2">
             In today's fast-paced world, online shopping has become an integral
             part of our daily lives, and we aim to provide a convenient and
-            user-friendly platform for purchasing vehicle components.
+            user-friendly platform for purchasing all types of vehicle components.
           </p>
           <p>
             Our primary objective is to provide you with an efficient and
